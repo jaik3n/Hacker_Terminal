@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hacker_Terminal", "Hacker_Terminal.csproj", "{B4780DC2-9C52-402D-3F29-C2350CBB19DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4780DC2-9C52-402D-3F29-C2350CBB19DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4780DC2-9C52-402D-3F29-C2350CBB19DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4780DC2-9C52-402D-3F29-C2350CBB19DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4780DC2-9C52-402D-3F29-C2350CBB19DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
